@@ -1,5 +1,5 @@
 const edgecolor = prompt('Please enter a simple color for the snow creature\'s edges.)', 'gray')
-const armcolor = prompt('Please enter a simple color for the snow creature\'s arms.)', ('brown'))
+const armcolor = prompt('Please enter a simple color for the snow creature\'s arms.)', ('black'))
 
 function setup() {
   createCanvas(1000,800);
